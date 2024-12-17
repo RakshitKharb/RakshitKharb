@@ -34,9 +34,9 @@
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://keras.io/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" alt="Keras" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" alt="Keras" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
+   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
