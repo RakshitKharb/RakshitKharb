@@ -7,7 +7,7 @@
 <p align="left">
 <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rakshit-kharb-a23a05207/)" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
 <a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" /></a>
-<a href="[https://leetcode.com/your-profile](https://leetcode.com/u/rakshitkharb/)" target="blank"><img align="center" src="[https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png)" alt="LeetCode" /></a>
+<a href="[https://leetcode.com/your-profile](https://leetcode.com/u/rakshitkharb/)" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="LeetCode" /></a>
 <a href="[https://instagram.com/your-profile](https://www.instagram.com/rakshitkharb/)" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram.png" alt="Instagram" /></a>
 </p>
 
