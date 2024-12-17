@@ -14,25 +14,13 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  
-  <!-- ML Tools -->
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Data-Science-data-science-flat-icons-inmotus-design.png" width="48" alt="scikit-learn"/>
-  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/pytorch.png" alt="PyTorch"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook"/>
-  
-  <!-- Cloud and Tools -->
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+
+<p align="left"> <!-- Languages --> <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/></a> <!-- ML Tools -->
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/></a> <a href="https://keras.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Data-Science-data-science-flat-icons-inmotus-design.png" width="48" alt="scikit-learn"/></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure"/></a> <a href="https://pytorch.org/" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/pytorch.png" alt="PyTorch"/></a> <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook"/></a>
+
+<!-- Cloud and Tools -->
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
+
 </p>
 
 ---
