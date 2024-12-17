@@ -69,8 +69,7 @@
 ---
 
 ### 🚀 Projects:
-- **[2048 Game](https://github.com/RakshitKharb/2048-Game):** A fun and interactive puzzle game built using JavaScript.
-- **[Air Quality Prediction](https://github.com/RakshitKharb/Air-Quality-Pred-using-LSTM):** Predicting air quality with LSTM models.
+- **[Real Time Air Quality Prediction](https://github.com/RakshitKharb/air_quality_project):** Monitors and predicts Air Quality in Real Time using Multi Output LSTM
 - **[Anomaly Detection on Cloud](https://github.com/RakshitKharb/Anomaly-Detection-on-Cloud):** Detecting anomalies in cloud environments.
 
 ---
