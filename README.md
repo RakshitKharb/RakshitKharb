@@ -4,7 +4,12 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="left"> <a href="https://www.linkedin.com/in/rakshit-kharb-a23a05207/" target="_blank"> <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /> </a> <a href="https://twitter.com/your-profile" target="_blank"> <img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" /> </a> <a href="https://leetcode.com/u/rakshitkharb/" target="_blank"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="48" alt="LeetCode" /> </a> <a href="https://www.instagram.com/rakshitkharb/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="48" alt="Instagram" /> </a> </p>
+<p align="left">
+<a href="https://x.com/kharbrakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomokeshav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakshit-kharb-a23a05207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-garg-5ba250287" height="30" width="40" /></a>
+<a href="https://instagram.com/rakshitkharb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav.brb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rakshitkharb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavgarg_24" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rakshitkvyzf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshavgarg24" height="30" width="40" /></a>
 ---
 
 ### 🛠️ Languages and Tools:
