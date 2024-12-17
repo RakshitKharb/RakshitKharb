@@ -3,14 +3,33 @@
 
 ---
 
+### 🎯 About Me:
+- 🎓 Engineering student passionate about software development.
+- 🌱 Currently learning **Machine Learning** and **Cloud Computing**.
+- 🎯 I believe in continuous learning and open-source contributions.
+
+---
+
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://x.com/kharbrakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomokeshav" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rakshit-kharb-a23a05207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-garg-5ba250287" height="30" width="40" /></a>
-<a href="https://instagram.com/rakshitkharb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav.brb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakshitkharb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavgarg_24" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/rakshitkvyzf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshavgarg24" height="30" width="40" /></a>
+  <a href="https://x.com/kharbrakshit" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fomokeshav" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/rakshit-kharb-a23a05207" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-garg-5ba250287" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rakshitkharb" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav.brb" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rakshitkharb" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavgarg_24" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/rakshitkvyzf/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshavgarg24" height="30" width="40" />
+  </a>
+</p>
 
+---
 
 ### 🛠️ Languages and Tools:
 
@@ -55,6 +74,11 @@
   </a>
 </p>
 
+---
+
+### 🚀 Projects:
+- **[Real Time Air Quality Prediction](https://github.com/RakshitKharb/air_quality_project):** Monitors and predicts Air Quality in Real Time using Multi Output LSTM.
+- **[Anomaly Detection on Cloud](https://github.com/RakshitKharb/Anomaly-Detection-on-Cloud):** Detecting anomalies in cloud environments.
 
 ---
 
@@ -65,19 +89,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKharb&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-
----
-
-### 🚀 Projects:
-- **[Real Time Air Quality Prediction](https://github.com/RakshitKharb/air_quality_project):** Monitors and predicts Air Quality in Real Time using Multi Output LSTM
-- **[Anomaly Detection on Cloud](https://github.com/RakshitKharb/Anomaly-Detection-on-Cloud):** Detecting anomalies in cloud environments.
-
----
-
-### 🎯 About Me:
-- 🎓 Engineering student passionate about software development.
-- 🌱 Currently learning **Machine Learning** and **Cloud Computing**.
-- 🎯 I believe in continuous learning and open-source contributions.
 
 ---
 <p align="center">
