@@ -14,7 +14,9 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left"> <!-- Languages -->  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -25,7 +27,40 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>> <!-- ML Tools --> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="48" alt="Keras"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" width="48" alt="scikit-learn"/> </a> <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://pbs.twimg.com/card_img/1867310329761325056/-StiJvSm?format=png&name=4096x4096" width="48" alt="PyTorch"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" width="48" alt="Jupyter Notebook"/> </a> <!-- Cloud and Tools --> <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/> </a> </p>
+  </a>
+  
+  <!-- ML Tools -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://pbs.twimg.com/card_img/1867310329761325056/-StiJvSm?format=png&name=4096x4096" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+
+  <!-- Cloud and Tools -->
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
